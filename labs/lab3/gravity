@@ -1,0 +1,8 @@
+import turtle
+
+Vx = 10
+Vy = 10
+dt = 1
+
+x += Vx*dt
+y += Vy*dt + ab
